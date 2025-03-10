@@ -17,3 +17,5 @@ This project aims to provide a simplified version of Vercel or Netlify, allowing
 ### Architecture
 
 <img width="1165" alt="Screenshot 2024-02-15 at 9 20 06 AM" src="https://github.com/Patel-Muhammad/vercel-clone/assets/96219910/3053d709-2c41-4667-be27-8d03d0e0794e">
+
+<img width="1165" alt="Screenshot 2025-03-10 at 2 48 59 PM" src="https://github.com/user-attachments/assets/ad876db7-3007-4b0e-a083-c943af5a466b" />
